@@ -10,6 +10,7 @@ class TasksScreen extends StatelessWidget {
         backgroundColor: Colors.lightBlueAccent,
         child: Icon(Icons.add),
         onPressed: () {
+          showModalBottomSheet(context: context, builder: (context) => Container());
         },
       ),
       body: Column(
@@ -53,8 +54,7 @@ class TasksScreen extends StatelessWidget {
           ),
           Expanded(
             child: Container(
-              padding:EdgeInsets.symmetric(horizontal: 20.0),
-              
+              padding: EdgeInsets.symmetric(horizontal: 20.0),
               height: 300.0,
               decoration: BoxDecoration(
                 color: Colors.white,
@@ -67,11 +67,7 @@ class TasksScreen extends StatelessWidget {
             ),
           ),
         ],
-        
       ),
     );
   }
 }
-
-
-
