@@ -1,9 +1,8 @@
 
-# [![Flutter logo][]][flutter.dev]
 
 # todoey_flutter
 
-A new Flutter project.
+#### A new Flutter project.
 
 Flutter is Google's SDK for crafting beautiful, fast user experiences for
 mobile, web and desktop from a single codebase. Flutter works with existing
