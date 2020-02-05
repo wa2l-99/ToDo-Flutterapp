@@ -1,8 +1,9 @@
+
+# [![Flutter logo][]][flutter.dev]
+
 # todoey_flutter
 
 A new Flutter project.
-
-# [![Flutter logo][]][flutter.dev]
 
 Flutter is Google's SDK for crafting beautiful, fast user experiences for
 mobile, web and desktop from a single codebase. Flutter works with existing
@@ -17,11 +18,9 @@ and open source.
 
 ## Cloning an Existing Repository
 
-You clone a repository with **git clone ** <url> .
-  
 * To colne the **Todoey-Flutterapp**:
   ```
-  git clone https://github.com/wa2l-99/Todoey-Flutterapp
+  $ git clone https://github.com/wa2l-99/Todoey-Flutterapp
   ```
 ## Opening a project from existing source code
 
