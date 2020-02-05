@@ -2,15 +2,31 @@
 
 A new Flutter project.
 
-## Getting Started
+# [![Flutter logo][]][flutter.dev]
 
-This project is a starting point for a Flutter application.
+Flutter is Google's SDK for crafting beautiful, fast user experiences for
+mobile, web and desktop from a single codebase. Flutter works with existing
+code, is used by developers and organizations around the world, and is free
+and open source.
 
-A few resources to get you started if this is your first Flutter project:
+## Documentation
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* [Install Flutter](https://flutter.dev/get-started/)
+* [Flutter documentation](https://flutter.dev/docs)
+* [Development wiki](https://github.com/flutter/flutter/wiki)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cloning an Existing Repository
+
+You clone a repository with **git clone ** <url> .
+  
+* To colne the **Todoey-Flutterapp**:
+  ```
+  git clone https://github.com/wa2l-99/Todoey-Flutterapp
+  ```
+## Opening a project from existing source code
+
+* To open the **Todoey-Flutterapp** project: 
+
+ 1. Click **File > Open** from the main IDE window.
+ 1. Browse to the **Todoey-Flutterapp** directory.
+ 1. Click **Open**.
