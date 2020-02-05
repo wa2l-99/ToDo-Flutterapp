@@ -30,11 +30,12 @@ class AddTaskScreen extends StatelessWidget {
               ),
             ),
             TextField(
-                autofocus: true,
-                textAlign: TextAlign.center,
-                onChanged: (newText) {
-                  newTaskTitle = newText;
-                }),
+              autofocus: true,
+              textAlign: TextAlign.center,
+              onChanged: (newText) {
+                newTaskTitle = newText;
+              },
+            ),
             FlatButton(
                 child: Text(
                   'Add',
