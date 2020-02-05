@@ -1,6 +1,6 @@
 
 
-# Todoey_flutter
+# ToDo_flutter
 
 #### A new Flutter project.
 
@@ -17,14 +17,14 @@ and open source.
 
 ## Cloning an Existing Repository
 
-* To colne the **Todoey-Flutterapp**:
+* To colne the **ToDo-Flutterapp**:
   ```
-  $ git clone https://github.com/wa2l-99/Todoey-Flutterapp
+  $ git clone https://github.com/wa2l-99/ToDo-Flutterapp
   ```
 ## Opening a project from existing source code
 
-* To open the **Todoey-Flutterapp** project: 
+* To open the **ToDo-Flutterapp** project: 
 
  1. Click **File > Open** from the main IDE window.
- 1. Browse to the **Todoey-Flutterapp** directory.
+ 1. Browse to the **ToDo-Flutterapp** directory.
  1. Click **Open**.
